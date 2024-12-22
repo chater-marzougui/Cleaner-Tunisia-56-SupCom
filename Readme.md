@@ -1,3 +1,31 @@
+<div align="center">
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/chater-marzougui-342125299/)
+
+</div>
+
+
+<br />
+<div align="center">
+    <h1 style="font-size:35px">Cleaner Tunisia 56 - IEEE SubCom SB  <br></h1>
+    <br>
+    <p style="font-size:20px" align="center">
+        A comprehensive bipolar disorder management app designed to improve mental health and well-being.
+    <br>
+    <br>
+    <a href="https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+<br>
+<br>
+  
+
 # Cleaner Tunisia 56
 
 A smart waste management solution submitted for the PEAS RAS SIGHT Challenge in TSYP12. The project consists of two autonomous robots (a mobile collector and a stationary sorter) working together to improve urban cleanliness and waste management efficiency.
@@ -49,8 +77,21 @@ Cleaner Tunisia 56 implements an innovative approach to urban waste management t
 
 ## Demo Videos
 
-1. Robots 3D Simulation: [Watch on YouTube]
+1. Robots 3D Simulation:
+
+<div align="center">
+
+[![YouTube Video](https://img.youtube.com/vi/OxUUnQa4V6M/0.jpg)](https://www.youtube.com/watch?v=OxUUnQa4V6M)
+
+</div>
+
 2. Mobile Application Demo: [Watch on YouTube]
+
+<div align="center">
+
+[![YouTube Video](https://img.youtube.com/vi/lcw-HjMQoZ0/0.jpg)](https://www.youtube.com/watch?v=lcw-HjMQoZ0)
+
+</div>
 
 ## Technical Implementation
 
@@ -77,9 +118,8 @@ Cleaner Tunisia 56 implements an innovative approach to urban waste management t
 - LiPo batteries (11.1V)
 
 ### Sorting Robot
-- ESP32-CAM
-- Arduino Nano
-- DC motors with H-Bridge drivers
+- Raspberry Pi 4 Model B with camera
+- Servo Motor with linear actuator
 - Conveyor belt system
 - Computer vision system
 
@@ -107,14 +147,16 @@ Cleaner Tunisia 56 implements an innovative approach to urban waste management t
 - Extended battery life optimization
 - Improved navigation algorithms
 
-## Contributors
 
-[List of team members and contributors]
-
-## License
-
-[Specify license information]
-
-## Contact
-
-For inquiries about this project, please contact [contact information]
+[contributors-shield]: https://img.shields.io/github/contributors/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location.svg?style=for-the-badge
+[contributors-url]: https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location.svg?style=for-the-badge
+[forks-url]: https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/network/members
+[stars-shield]: https://img.shields.io/github/stars/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location.svg?style=for-the-badge
+[stars-url]: https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/stargazers
+[issues-shield]: https://img.shields.io/github/issues/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location.svg?style=for-the-badge
+[issues-url]: https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/issues
+[license-shield]: https://img.shields.io/github/license/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location.svg?style=for-the-badge
+[license-url]: https://github.com/chater-marzougui/Sup-Bot_HexaBot-Nearby-Location/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/chater-marzougui-342125299/
